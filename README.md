@@ -1,8 +1,6 @@
 # Planet Earth 🌎
 Applying sentiment analysis to measure positivity or negativity of a user-supplied sentence.
 
-![alt text][earth]
-
 ![alt text][demo1]
 ![alt text][demo2]
 
